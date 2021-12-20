@@ -2,7 +2,7 @@
 Repositório referente ao desafio, o qual será utilizado junto ao Bootcamp Inter Frontend Developer
 
 # Inter
-[![Inter](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo-banco-inter.svg/800px-Logo-banco-inter.svg.png "Inter")](https://www.bancointer.com.br/)
+[![Inter](https://hermes.digitalinnovation.one/tracks/f00290e5-b695-4ef6-b88a-d5aae004bd66.png "Inter")](https://www.bancointer.com.br/)
 
 ## Atividades Realizadas
 - [x] Boas vindas
